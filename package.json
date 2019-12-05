@@ -1,0 +1,24 @@
+{
+  "name": "liri-hje-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjelliott87/liri-hje-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjelliott87/liri-hje-repo/issues"
+  },
+  "homepage": "https://github.com/hjelliott87/liri-hje-repo#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0"
+  }
+}
